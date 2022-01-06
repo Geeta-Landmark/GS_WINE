@@ -1,9 +1,6 @@
-Snehal Desai (K2039389)
-Geetanjali Sawant (K1144343) 
-Revathipriya Selvamani (K2007882)
-Ganesh Kallepu (K2040320)
+Created by: Geetanjali Sawant
 
-CourseWork1_Group19 folder includes 3 files:
+CourseWork1 folder includes 3 files:
 1) Loading_Wine_Dataset.py
 	It loads the Wine Recognition dataset, preprocesses it and reduce outliers and visualise using heatmap
 2) Clustering.py
